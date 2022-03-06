@@ -1,0 +1,8 @@
+body{
+    margin:0;
+    
+}
+#tela{
+    border:1px solid black;
+    display: block;
+}
